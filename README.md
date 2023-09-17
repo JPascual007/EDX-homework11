@@ -18,11 +18,9 @@
 An application that can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.
 
 ## Images:
-![Project Screenshot](./Develop/public/assets/homepage.jpg)
+![Project Screenshot](./public/assets/Express%20Note%20Taking.png)
 
-![Project Screenshot](./Develop/public/assets/testDelete.jpg)
-
-![Project Screenshot](./Develop/public/assets/writeTestText.jpg)
+![Project Screenshot](./public/assets/Express%20Note%20Taking%20Demo.png)
 
 ## Installation Instructions: 
 ```
